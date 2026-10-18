@@ -59,7 +59,7 @@ iOS 27 では「オートメーション」タブがなくなり、ショート�
 
 足したアクションには「実行時に表示」のスイッチがあります。オンだと「Rd. Note で記録を始めました。」と表示されます。表示がいらなければオフにしてください。
 
-![実行時に表示](images/automation/ios27/11_done_editor.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![実行時に表示](images/automation/ios27/11_action_show_when_run.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 **6. 上の名前(「新規ショートカット」)を押して、分かる名前に変える**
 
@@ -79,20 +79,20 @@ iOS 27 では「オートメーション」タブがなくなり、ショート�
 
 **2. 一覧から「CarPlay」を選ぶ**
 
-![トリガーの一覧](images/automation/ios26/02_trigger_list.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+トリガー(きっかけ)の一覧から「CarPlay」を探して選びます。
 
 **3. 「接続」を選び、その下で「すぐに実行」を選んで「次へ」を押す**
 
 「確認後に実行」のままだと、つなぐたびに確認が出て、押すまで記録が始まりません。「実行時に通知」は、動いたことを知らせてほしいときだけオンにします。
 
-![すぐに実行(画面は別のトリガーの例です)](images/automation/ios26/04_when_run_immediately.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![すぐに実行](images/automation/ios26/04_run_immediately_options.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 **4. アプリの一覧から Rd. Note を開き、「記録を始める」を選ぶ**
 
 選ぶとその場で保存され、一覧に戻ります。
 
-![アクションを選ぶ](images/automation/ios26/05_pick_action.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
-![Rd. Note のアクション](images/automation/ios26/06_rdnote_actions.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![アプリの一覧の Rd. Note](images/automation/ios26/05_app_list_rdnote.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![Rd. Note のアクション](images/automation/ios26/06_rdnote_action_list.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 **5. 同じ手順で、もう1つ作る**
 
