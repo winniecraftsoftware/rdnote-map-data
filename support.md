@@ -31,43 +31,48 @@ iOS 27 では「オートメーション」タブがなくなり、ショート�
 
 **1. 「すべてのショートカット」の ＋ を押す**
 
-![すべてのショートカットの ＋](images/automation/ios27/02_all_shortcuts_plus.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![すべてのショートカットの ＋](images/automation/ios27/01_all_shortcuts_plus.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
-**2. 「編集」を押し、アクションの一覧の上にある「オートメーション」を選ぶ**
+**2. 右上の「編集」を押し、下に出る一覧の上にある「オートメーション」を選ぶ**
 
-![新規ショートカットの編集](images/automation/ios27/03_new_shortcut.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
-![オートメーションを選ぶ](images/automation/ios27/04_editor_automation_chip.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+はじめは「ショートカットでどのような操作を実行しますか?」と、言葉で説明する画面が開きます。ここには何も書かずに「編集」を押します。
+
+![新規ショートカットの編集](images/automation/ios27/02_new_shortcut_edit.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![オートメーションを選ぶ](images/automation/ios27/03_automation_chip.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 **3. 「接続」の中の「CarPlay」を選ぶ**
 
-![トリガーの一覧の CarPlay](images/automation/ios27/carplay_01_trigger_list.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![トリガーの一覧の CarPlay](images/automation/ios27/04_trigger_carplay.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 **4. 「CarPlay が 接続されている とき」になっていることを確かめる**
 
 青い言葉を押すと「接続されている」「接続解除されている」「接続または接続解除されている」から選べます。記録を始めるほうは「接続されている」のままにします。
 
-![足したトリガー](images/automation/ios27/carplay_02_trigger_added.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
-![接続の選び方](images/automation/ios27/carplay_03_connect_menu.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![足したトリガー](images/automation/ios27/05_trigger_added.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![接続の選び方](images/automation/ios27/06_connect_menu.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 右の ⌄ を開くと、「オートメーション」のスイッチがあります。**オンのままにしてください。** オンだと、つなぐたびに確認せずに動きます。「通知」は、動いたことを知らせてほしいときだけオンにします。
 
-![オートメーションと通知のスイッチ](images/automation/ios27/carplay_04_options.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![オートメーションと通知のスイッチ](images/automation/ios27/07_trigger_options.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 **5. 下の検索で「Rd. Note」を探し、「記録を始める」を足す**
 
-![Rd. Note のアクション](images/automation/ios27/10_rdnote_actions.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![Rd. Note のアクション](images/automation/ios27/08_rdnote_actions.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 足したアクションには「実行時に表示」のスイッチがあります。オンだと「Rd. Note で記録を始めました。」と表示されます。表示がいらなければオフにしてください。
 
-![実行時に表示](images/automation/ios27/11_action_show_when_run.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![実行時に表示](images/automation/ios27/09_action_show_when_run.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
-**6. 上の名前(「新規ショートカット」)を押して、分かる名前に変える**
+**6. 名前を確かめて、左上の ＜ で戻る**
 
-例:「Rd. Note 記録を始める」。名前を変えたら、左上の ＜ で戻ります。
+アクションを足すと、ショートカットの名前は「記録を始める」に変わります。別の名前にしたいときは、上の名前を押して変えます。
 
 **7. 同じ手順で、もう1つ作る**
 
-手順 4 で「接続解除されている」を選び、手順 5 で「記録を終わらせる」を足します。
+手順 4 で「接続解除されている」を選び、手順 5 で「記録を終わらせる」を足します。名前は「記録を終わらせる」になります。
+
+![接続解除されているとき](images/automation/ios27/10_trigger_disconnected.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
+![記録を終わらせる](images/automation/ios27/11_action_stop.png){: width="280" style="border:1px solid #c9ced6;border-radius:18px"}
 
 ### iOS 26 の手順 {#automation-ios26}
 
