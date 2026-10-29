@@ -123,6 +123,17 @@ iOS 27 では「オートメーション」タブがなくなり、ショート�
 **データを消したい。**
 設定 →「すべてのデータを消す」で消せます。消したデータは戻せません。
 
+## 道路データのライセンス {#data-license}
+
+道路名・地点名と、走ったあとに道路へ当てはめるための道路データは、OpenStreetMap のデータから作った派生データベースです。
+[Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1-0/) のもとで提供します(© OpenStreetMap contributors / [著作権とライセンス](https://www.openstreetmap.org/copyright))。
+
+データの全体と作り方は、どなたでも無料で受け取れます。
+
+- 地方ごとの道路データ: [jp-car-20261026](https://github.com/winniecraftsoftware/rdnote-map-data/releases/tag/jp-car-20261026)(作り方は README.txt)
+- アプリに同梱している道路名・地点名のデータ: [app-names-20261010](https://github.com/winniecraftsoftware/rdnote-map-data/releases/tag/app-names-20261010)(作り方は README.txt)
+- 配布の一覧: https://github.com/winniecraftsoftware/rdnote-map-data/releases
+
 ## お問い合わせ
 
 winniecraftapp@icloud.com
